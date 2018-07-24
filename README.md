@@ -1,2 +1,2 @@
 # Topic-Modeling-with-SVD-and-NMF
-This project is an application of SVD and NMF on topic modeling.
+This project is an application of Singular Value Decomposition (SVD) and Non-negative Matrix Factorization (NMF) on topic modeling.
